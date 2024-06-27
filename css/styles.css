@@ -15,6 +15,10 @@ body {
 
 }
 
+.dyra {
+    
+}
+
 .theme {
     font-weight: 700;
     font-size: 56px;
@@ -27,5 +31,11 @@ body {
 
 footer {
     background-color: #2e2f42;
-    
+
+}
+
+.cringe {
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    line-height: 1.5;
 }
