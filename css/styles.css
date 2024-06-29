@@ -25,6 +25,7 @@ body {
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
+    line-height: 1.07;
     color: #fff;
     background-color: #2e2f42;
 }
@@ -41,16 +42,18 @@ footer {
 }
 
 button {
-    display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: row;
-        gap: 10px;
-        border-radius: 4px;
-            padding: 16px 32px;
-            width: 169px;
-            height: 56px;
-            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-            background: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
 
+address {
+    font-style: normal;
+}
+
+.first-secrion {
+    background-color: #2e2f42;
 }
